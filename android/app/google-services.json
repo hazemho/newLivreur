@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "424710215206",
+    "firebase_url": "https://monlivreur-2737e-default-rtdb.firebaseio.com",
+    "project_id": "monlivreur-2737e",
+    "storage_bucket": "monlivreur-2737e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:424710215206:android:921d72ebff13f8bfaef8e7",
+        "android_client_info": {
+          "package_name": "com.example.monlivreur"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "424710215206-q5ep5qqkf3cvpubbodfv2b01fek7vdjp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2pFj6xkpMUzaHo3RN3x4Ut6wzpjUwIMM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "424710215206-q5ep5qqkf3cvpubbodfv2b01fek7vdjp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
